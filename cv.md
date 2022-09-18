@@ -1,4 +1,4 @@
-﻿
+
 # Curriculum Vitae
 
 <img src = "https://github.com/pavelrudnev11/rsschool-cv/blob/gh-pages/images/photo_2022-08-16_17-10-02.jpg?raw=true" width = "240" height = "250" alt = "CV photo" align = "center" />
@@ -21,12 +21,9 @@ Languages:
 - Russian       Mother tongue  
 - English       Upper intermediate  
 - Czech         Intermediate  
-## Computer skills
-
+## Computer skills  
 Programming language C++,JS,HTML
 
-Operating systems Windows,Android,Linux
-
+Operating systems Windows,Android,Linux  
 ## Completed projects    
-My Curriculum Vitae https://github.com/pavelrudnev11/rsschool-cv
-
+[My Curriculum Vitae](https://github.com/pavelrudnev11/rsschool-cv)
