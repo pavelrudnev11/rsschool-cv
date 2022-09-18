@@ -5,7 +5,7 @@
 
 Pavlo Rudniev  
 ## Personal Data  
-Home address:    Czech, Opatovice, str. Na Návsi 23 
+Home address:    Czech, Opatovice, str. Na Návsi 23  
 Telephone:       +420722337218  
 Place of birth:  Kherson  
 Date of birth:   11.05.2006  
