@@ -120,7 +120,7 @@ img {
     margin-left: -70px;
     width: 140px;
     height: 2px;
-    background-color: #829985;
+    background-color: #929292;
 }
 .section-profile-title {
     display: flex;
@@ -141,7 +141,7 @@ h3 {
 }
 .section-subtitle {
     margin-top: 20px;
-    color: #829985;
+    color: #929292;
     line-height: 50px;
     font-weight: 300;
     letter-spacing: 2px;
@@ -175,7 +175,7 @@ a:hover{
     padding: 20px;
 }
 .header{
-    background-color: #000000;
+    background-color: #b1afaf;
  }
  .github {
     color: #fff;
