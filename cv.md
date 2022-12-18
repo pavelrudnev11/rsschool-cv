@@ -1,7 +1,7 @@
 
 # Curriculum Vitae
 
-<img src = "https://github.com/pavelrudnev11/rsschool-cv/blob/gh-pages/images/photo_2022-08-16_17-10-02.jpg?raw=true" width = "240" height = "250" alt = "CV photo" align = "center" />
+<img src = "./assets/img/photo_2022-08-16_17-10-02.jpg" width = "240" height = "250" alt = "CV photo" align = "center" />
 
 Pavlo Rudniev  
 ## Personal Data  
