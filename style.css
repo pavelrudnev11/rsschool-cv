@@ -53,7 +53,7 @@ body{
     transition: color 0.5s;
   }
   .section-item a:hover {
-    color: #fad82e;
+    color: #52514f;
   }
 
   .main-title {
@@ -81,7 +81,7 @@ body{
   }
   
   .nav-link:hover {
-    color: #fad82e;
+    color: #52514f;
   }
   .section-item {
   position: relative;
@@ -168,7 +168,7 @@ a {
     transition: color 0.5s;
 }
 a:hover{
-    color: #fad82e;
+    color: #52514f;
   }
   .footer {
     background-color: #b1afaf;
